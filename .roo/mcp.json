@@ -1,0 +1,74 @@
+{
+  "mcpServers": {
+    "playwright-browser": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/playwright-browser/start.cmd"
+      ]
+    },
+    "experience-manager": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/experience-manager/start.cmd"
+      ]
+    },
+    "repo-inspector": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/repo-inspector/start.cmd"
+      ]
+    },
+    "context-reranker": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/context-reranker/start.cmd"
+      ]
+    },
+    "context-store": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/context-store/start.cmd"
+      ]
+    },
+    "db-readonly": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/db-readonly/start.cmd"
+      ]
+    },
+    "log-diagnose": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/log-diagnose/start.cmd"
+      ]
+    },
+    "memory-distill": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/memory-distill/start.cmd"
+      ]
+    },
+    "output-guard": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/output-guard/start.cmd"
+      ]
+    },
+    "prompt-compressor": {
+      "command": "cmd",
+      "args": [
+        "/c",
+        "projects/e-Auto/mcps/prompt-compressor/start.cmd"
+      ]
+    }
+  }
+}
