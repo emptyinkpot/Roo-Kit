@@ -1,0 +1,8 @@
+﻿{
+    "args":  [
+
+             ],
+    "command":  "start.cmd",
+    "name":  "db-readonly",
+    "version":  "0.1.0"
+}

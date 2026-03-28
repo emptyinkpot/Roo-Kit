@@ -1,0 +1,8 @@
+﻿{
+    "args":  [
+
+             ],
+    "command":  "start.cmd",
+    "name":  "playwright-browser",
+    "version":  "0.1.0"
+}

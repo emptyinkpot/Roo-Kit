@@ -1,0 +1,4 @@
+MCP: repo-inspector
+Mode: default
+TargetRepo: c:\Users\ASUS-KL\.cursor
+GitStatus: .git not found

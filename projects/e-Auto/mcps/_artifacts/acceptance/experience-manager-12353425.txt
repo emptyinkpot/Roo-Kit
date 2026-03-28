@@ -1,0 +1,4 @@
+MCP: experience-manager
+Mode: default
+TargetRepo: c:/Users/ASUS-KL/.cursor 
+Result: simulated knowledge read-write check completed

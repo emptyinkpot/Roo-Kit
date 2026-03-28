@@ -1,0 +1,2 @@
+targetRepo=c:/Users/ASUS-KL/.cursor 
+status=ok

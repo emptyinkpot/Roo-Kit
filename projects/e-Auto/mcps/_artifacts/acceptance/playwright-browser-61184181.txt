@@ -1,0 +1,4 @@
+MCP: playwright-browser
+Mode: default
+TargetRepo: 
+Result: simulated browser acceptance run completed

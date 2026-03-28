@@ -1,0 +1,4 @@
+MCP: playwright-browser
+Mode: default
+TargetRepo: c:/Users/ASUS-KL/.cursor 
+Result: simulated browser acceptance run completed

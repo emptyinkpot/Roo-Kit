@@ -1,0 +1,8 @@
+﻿{
+    "args":  [
+
+             ],
+    "command":  "start.cmd",
+    "name":  "repo-inspector",
+    "version":  "0.1.0"
+}

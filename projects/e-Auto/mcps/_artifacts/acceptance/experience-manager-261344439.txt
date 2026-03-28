@@ -1,0 +1,4 @@
+MCP: experience-manager
+Mode: default
+TargetRepo: 
+Result: simulated knowledge read-write check completed

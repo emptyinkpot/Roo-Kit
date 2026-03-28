@@ -1,0 +1,8 @@
+﻿{
+    "args":  [
+
+             ],
+    "command":  "start.cmd",
+    "name":  "output-guard",
+    "version":  "0.1.0"
+}

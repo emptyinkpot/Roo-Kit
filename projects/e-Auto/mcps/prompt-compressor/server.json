@@ -1,0 +1,8 @@
+﻿{
+    "args":  [
+
+             ],
+    "command":  "start.cmd",
+    "name":  "prompt-compressor",
+    "version":  "0.1.0"
+}
