@@ -1,0 +1,46 @@
+# Managed Sourcery baseline for emptyinkpot repositories.
+# Dashboard review language/sections are configured in Sourcery itself; this
+# file keeps PR review noise low and adds explicit skip labels for exceptional PRs.
+
+clone_detection:
+  min_lines: 6
+  min_duplicates: 2
+  identical_clones_only: false
+
+rule_settings:
+  enable:
+    - default
+  rule_types:
+    - refactoring
+    - suggestion
+    - comment
+  python_version: '3.9'
+
+github:
+  request_review: author
+  sourcery_branch: sourcery/{base_branch}
+  ignore_labels:
+    - skip-sourcery
+    - no-sourcery
+    - sourcery-ignore
+
+ignore:
+  - .git
+  - .venv
+  - venv
+  - env
+  - .tox
+  - node_modules
+  - dist
+  - build
+  - coverage
+  - .next
+  - .nuxt
+  - .svelte-kit
+  - .turbo
+  - .cache
+  - .output
+  - .vercel
+  - generated
+  - artifacts
+  - _artifacts
